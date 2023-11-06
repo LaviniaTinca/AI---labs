@@ -1,0 +1,131 @@
+Pentru problema rucsacului avem n = 20
+Capacitate rucsac = 524
+
+ Iteratia 1: 
+
+Pentru problema rucsacului avem solutia: [0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0]
+ cu fitness: 785 
+ timp de executie 0.07896566390991211
+
+Pentru problema Knapsack elite avem solutia: [0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1]
+ cu fitness:  724
+ timp de executie 0.23898577690124512
+
+ Iteratia 2: 
+
+Pentru problema rucsacului avem solutia: [0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0]
+ cu fitness: 779 
+ timp de executie 0.0790257453918457
+
+Pentru problema Knapsack elite avem solutia: [0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 1]
+ cu fitness:  770
+ timp de executie 0.16095685958862305
+
+ Iteratia 3: 
+
+Pentru problema rucsacului avem solutia: [0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0, 1]
+ cu fitness: 787 
+ timp de executie 0.13799262046813965
+
+Pentru problema Knapsack elite avem solutia: [0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0]
+ cu fitness:  768
+ timp de executie 0.1650223731994629
+
+ Iteratia 4: 
+
+Pentru problema rucsacului avem solutia: [0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0, 1]
+ cu fitness: 787 
+ timp de executie 0.08102750778198242
+
+Pentru problema Knapsack elite avem solutia: [0, 0, 1, 0, 0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 1, 1]
+ cu fitness:  722
+ timp de executie 0.1579885482788086
+
+ Iteratia 5: 
+
+Pentru problema rucsacului avem solutia: [0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0, 1]
+ cu fitness: 787 
+ timp de executie 0.13895797729492188
+
+Pentru problema Knapsack elite avem solutia: [0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0]
+ cu fitness:  770
+ timp de executie 0.17402100563049316
+
+ Iteratia 6: 
+
+Pentru problema rucsacului avem solutia: [0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0]
+ cu fitness: 785 
+ timp de executie 0.0749962329864502
+
+Pentru problema Knapsack elite avem solutia: [0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1]
+ cu fitness:  749
+ timp de executie 0.16398882865905762
+
+ Iteratia 7: 
+
+Pentru problema rucsacului avem solutia: [0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0, 1]
+ cu fitness: 787 
+ timp de executie 0.07896137237548828
+
+Pentru problema Knapsack elite avem solutia: [0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0]
+ cu fitness:  725
+ timp de executie 0.23195385932922363
+
+ Iteratia 8: 
+
+Pentru problema rucsacului avem solutia: [0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0, 1]
+ cu fitness: 787 
+ timp de executie 0.07903099060058594
+
+Pentru problema Knapsack elite avem solutia: [0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0, 1]
+ cu fitness:  729
+ timp de executie 0.15496039390563965
+
+ Iteratia 9: 
+
+Pentru problema rucsacului avem solutia: [0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0, 1]
+ cu fitness: 787 
+ timp de executie 0.07602810859680176
+
+Pentru problema Knapsack elite avem solutia: [0, 0, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0]
+ cu fitness:  713
+ timp de executie 0.15698862075805664
+
+ Iteratia 10: 
+
+Pentru problema rucsacului avem solutia: [0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0, 1]
+ cu fitness: 787 
+ timp de executie 0.11501002311706543
+
+Pentru problema Knapsack elite avem solutia: [0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 0, 1, 1, 1, 0]
+ cu fitness:  718
+ timp de executie 0.19202184677124023
+
+------Sumar------
+
+-- Avem 20 elemente in rucsac
+--population_size 100, num_generations 30, crossover_probability 0.5, mutation_probability 0.5, tournament_size 2, elite_percentage 0.1 
+ - AE pentru problema rucsacului: (var 1 - incrucisare uniforma, generatii noi fara elitele anterioare)  
+
+cea mai buna solutie a fost: [0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0, 1],
+ calitate = 787
+
+cea mai slaba solutie a fost: [0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0],
+ calitate = 779
+
+calitatea medie:  785.8
+
+timp mediu de executie: 0.09399962425231934
+
+ - Elite AE pentru problema rucsacului: (var 2 - incrucisare intr-un punct de taietura, cu elitele anterioare) 
+
+cea mai buna solutie a fost: [0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 1],
+ calitate = 770
+
+cea mai slaba solutie a fost: [0, 0, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0],
+ calitate = 713
+
+calitatea medie:  738.8
+
+timp mediu de executie: 0.17968881130218506
+

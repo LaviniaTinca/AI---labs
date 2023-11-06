@@ -1,0 +1,130 @@
+Pentru problema TSP avem  10 orase
+
+ Iteratia 1: 
+
+Pentru problema TSP1 avem solutia: [8, 0, 7, 2, 9, 4, 6, 1, 5, 3]
+ cu fitness: 9042.304512935934 
+ timp de executie 0.5939631462097168
+
+Pentru problema TSP2 avem solutia: [6, 8, 0, 2, 7, 9, 4, 1, 5, 3]
+ cu fitness:  9226.143259817423
+ timp de executie 0.6069614887237549
+
+ Iteratia 2: 
+
+Pentru problema TSP1 avem solutia: [7, 2, 0, 4, 9, 8, 6, 1, 5, 3]
+ cu fitness: 9546.583402368542 
+ timp de executie 0.5909633636474609
+
+Pentru problema TSP2 avem solutia: [6, 8, 4, 9, 2, 7, 0, 3, 5, 1]
+ cu fitness:  9182.816481265543
+ timp de executie 0.5829987525939941
+
+ Iteratia 3: 
+
+Pentru problema TSP1 avem solutia: [3, 0, 7, 2, 9, 4, 8, 6, 1, 5]
+ cu fitness: 9182.816481265545 
+ timp de executie 0.7219226360321045
+
+Pentru problema TSP2 avem solutia: [8, 1, 5, 3, 6, 0, 2, 7, 9, 4]
+ cu fitness:  9638.007025216606
+ timp de executie 0.6779575347900391
+
+ Iteratia 4: 
+
+Pentru problema TSP1 avem solutia: [7, 0, 8, 3, 5, 1, 6, 4, 9, 2]
+ cu fitness: 9042.304512935936 
+ timp de executie 0.6999235153198242
+
+Pentru problema TSP2 avem solutia: [8, 4, 9, 2, 7, 0, 6, 1, 5, 3]
+ cu fitness:  9258.817873263975
+ timp de executie 0.6859581470489502
+
+ Iteratia 5: 
+
+Pentru problema TSP1 avem solutia: [3, 5, 1, 8, 0, 7, 2, 9, 4, 6]
+ cu fitness: 9165.846308155891 
+ timp de executie 0.6049952507019043
+
+Pentru problema TSP2 avem solutia: [1, 5, 3, 6, 0, 7, 2, 9, 4, 8]
+ cu fitness:  9382.359668483932
+ timp de executie 0.6539263725280762
+
+ Iteratia 6: 
+
+Pentru problema TSP1 avem solutia: [1, 6, 0, 9, 4, 2, 7, 8, 3, 5]
+ cu fitness: 9551.629157410878 
+ timp de executie 0.6769914627075195
+
+Pentru problema TSP2 avem solutia: [0, 7, 2, 4, 9, 8, 6, 3, 5, 1]
+ cu fitness:  9505.218042660214
+ timp de executie 0.6779265403747559
+
+ Iteratia 7: 
+
+Pentru problema TSP1 avem solutia: [8, 0, 7, 2, 9, 4, 6, 1, 5, 3]
+ cu fitness: 9042.304512935934 
+ timp de executie 0.5919609069824219
+
+Pentru problema TSP2 avem solutia: [9, 4, 3, 5, 1, 6, 8, 7, 2, 0]
+ cu fitness:  9577.473340738277
+ timp de executie 0.6039628982543945
+
+ Iteratia 8: 
+
+Pentru problema TSP1 avem solutia: [8, 6, 1, 5, 3, 4, 9, 2, 7, 0]
+ cu fitness: 9164.88833967715 
+ timp de executie 0.5879640579223633
+
+Pentru problema TSP2 avem solutia: [6, 8, 0, 7, 2, 9, 4, 1, 5, 3]
+ cu fitness:  8970.49590308475
+ timp de executie 0.5949985980987549
+
+ Iteratia 9: 
+
+Pentru problema TSP1 avem solutia: [8, 0, 7, 2, 9, 4, 6, 1, 5, 3]
+ cu fitness: 9042.304512935934 
+ timp de executie 0.5919656753540039
+
+Pentru problema TSP2 avem solutia: [6, 1, 5, 3, 8, 4, 9, 2, 7, 0]
+ cu fitness:  9258.817873263975
+ timp de executie 0.6009635925292969
+
+ Iteratia 10: 
+
+Pentru problema TSP1 avem solutia: [9, 0, 8, 6, 5, 1, 3, 7, 2, 4]
+ cu fitness: 9855.43454571503 
+ timp de executie 0.6619246006011963
+
+Pentru problema TSP2 avem solutia: [1, 6, 8, 4, 9, 0, 2, 7, 3, 5]
+ cu fitness:  9383.536465453448
+ timp de executie 0.6839578151702881
+
+------Sumar------
+
+-- TSP -- (minimizare) --    Avem 10 orase
+--population_size 100, num_generations 50, crossover_probability 0.5, mutation_probability 0.5, tournament_size 2, elite_percentage 0.1 
+ - AE pentru problema TSP: (var 1 - incrucisare ordonata, mutatie swap)  
+
+cea mai buna solutie a fost: [8, 0, 7, 2, 9, 4, 6, 1, 5, 3],
+ calitate = 9042.304512935934
+
+cea mai slaba solutie a fost: [9, 0, 8, 6, 5, 1, 3, 7, 2, 4],
+ calitate = 9855.43454571503
+
+calitatea medie:  9263.641628633679
+
+timp mediu de executie: 0.6322574615478516
+
+ - AE pentru problema TSP2: (var 2 - incrucisare ciclica, mutatie reversed) 
+
+cea mai buna solutie a fost: [6, 8, 0, 7, 2, 9, 4, 1, 5, 3],
+ calitate = 8970.49590308475
+
+cea mai slaba solutie a fost: [8, 1, 5, 3, 6, 0, 2, 7, 9, 4],
+ calitate = 9638.007025216606
+
+calitatea medie:  9338.368593324814
+
+timp mediu de executie: 0.6369611740112304
+
